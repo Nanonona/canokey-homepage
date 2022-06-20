@@ -32,7 +32,7 @@ params:
     # Button text
     buttontext: Get started
     # Where the main hero button links to
-    buttonlink: https://docs.canokeys.org
+    buttonlink: https://canokey-documentation.pages.dev/
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
     # Footer logos (from static/images/logos/clients/___.svg)
@@ -45,13 +45,13 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Documentation
-    url: https://docs.canokeys.org
+    url: https://canokey-documentation.pages.dev/
   - title: Tools
     sublinks:
     - title: Web Console
-      url: https://console.canokeys.org
+      url: https://canokey-c8t.pages.dev/
     - title: Web DFU
-      url: https://dfu.canokeys.org
+      url: https://webdfu.pages.dev/
   section1:
     title: Great power comes
     subtitle: with great responsibility
@@ -59,7 +59,7 @@ params:
     - title: Web Console
       icon: mouse-globe
       text: Manage your CanoKey using your browser
-      url: https://console.canokeys.org
+      url: https://canokey-c8t.pages.dev/
       buttonText: Console
     - title: OTP Tool & Plugin
       icon: laptop-cloud
@@ -90,7 +90,7 @@ params:
     subtitle: To rule them all
     image: console.png
     buttonText: Get started
-    buttonLink: https://console.canokeys.org
+    buttonLink: https://canokey-c8t.pages.dev/
   section4: false
     # title: Our Clients love us!
     # subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
